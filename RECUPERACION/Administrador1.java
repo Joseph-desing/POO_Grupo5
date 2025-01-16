@@ -28,6 +28,7 @@ public class Administrador1 {
     // Botones para listar
     private JButton listarButton; // Botón para listar productos
     private JButton listarButton1; // Botón para listar usuarios
+    private JTable table1;
 
     // Listas para almacenar productos y usuarios
     private ArrayList<String> productos = new ArrayList<>();
